@@ -19,5 +19,5 @@
 ### video Playing Page
 ![image](https://user-images.githubusercontent.com/62868878/115613125-a7316f00-a309-11eb-894d-f17a017902cd.png)
 
-***Developed By.. 
+***Developed By.. Priyadarshan Ghosh***
 ***Thank you***
